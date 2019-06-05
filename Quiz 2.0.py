@@ -7,6 +7,7 @@
 # answer questions.
 # Date 19/05/2019
 #
+# Before You Run The Program, go onto command prompt and run pip install pygame, and then pip install pgzero
 # How my program works:
 # (1) Draw GUI on the screen
 # (2) Create a list of questions about bluelight
